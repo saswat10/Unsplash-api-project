@@ -1,4 +1,4 @@
-#This is project from John Smilga's course on React
+# This is project from John Smilga's course on React
 
 
 
